@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">Finished my High School in Paraná SEED institution, with a decent english speaking.<br><br>[ Show some love to Lua <3 ]</p>
+<p align="center">Finished my High School in Paraná SEED public education, with a decent english knowledge.<br><br>[ Show some love to Lua <3 ]</p>
 
 ###
 
