@@ -3,17 +3,18 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  
 </div>
 
 ###
