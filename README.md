@@ -23,11 +23,11 @@
   <img width="13" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" alt="figma logo"  />
   <img width="13" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="28" alt="ubuntu logo"  />
+  <img width="13" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28" alt="sqlite logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="28" alt="trello logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="28" alt="ubuntu logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="28" alt="vscode logo"  />
 </div>
