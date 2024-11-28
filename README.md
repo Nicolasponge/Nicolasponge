@@ -30,7 +30,6 @@
   <img width="13" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="28" alt="trello logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="28" alt="vscode logo"  />
 </div>
 
 ###
