@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🤗! My name is Nicolas and I'm a System Development Technician studying Computer Science 🎓 in Brazil!</h2>
+<h2 align="left">Hi 🤗! My name is Nicolas, I'm a System Development Technician studying Applied and Computational Mathematics 🎓 in Brazil!</h2>
 
 ###
 
