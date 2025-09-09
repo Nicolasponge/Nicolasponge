@@ -13,7 +13,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="cpp logo"  />
   
 </div>
 
