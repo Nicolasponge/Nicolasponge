@@ -1,55 +1,79 @@
-<h2 align="left">Hi 🤗! My name is Nícolas, I'm a System Development Technician studying Applied and Computational Mathematics 🎓 in Brazil!</h2>
+<h1 align="center">Nícolas</h1>
 
-###
+<p align="center">
+  Applied and Computational Mathematics Student • System Development Technician
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
-  <img width="16" />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="28" alt="blender logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" alt="figma logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28" alt="sqlite logo"  />
-  <img width="13" />
-</div>
+I am a student of Applied and Computational Mathematics in Brazil, with a strong interest in **Geometry**, both in its theoretical foundations and computational applications.
 
-###
+My focus is on developing deep mathematical understanding, rigorous thinking, and the ability to transform abstract concepts into structured solutions.
 
-<h2 align="center">About myself:</h2>
+---
 
-###
+## 🎯 Current Focus
 
-<p align="center">Studying Mathematics I developed a love for geometry in general.<br><br>[ Show some love to Lua <3 ]</p>
+- Euclidean Geometry (rigorous approach)
+- Foundations of Mathematical Proof
+- Discrete Geometry (research project)
+- Computational thinking applied to mathematics
 
-###
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/niterleski/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/niterleski" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:ni.terleski@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+## ⚙️ Technical Skills
 
-###
+**Programming**
+- Lua
+- C++
+- Java
+- Python
 
-<br clear="both">
+**Concepts**
+- Problem-solving
+- Systems thinking
+- Algorithmic reasoning
 
-![Snake animation](https://raw.githubusercontent.com/Nicolasponge/Nicolasponge/output/snake.svg)
+**Tools**
+- Blender (3D)
+- Figma (Design)
+- SQLite (Data)
 
-###
+---
+
+## 🚀 Projects
+
+- 📌 **Discrete Geometry Research**  
+  Study and exploration of geometric structures and spatial representations.
+
+- 📌 **Process Automation Systems**  
+  Development of workflows to optimize financial and operational processes.
+
+- 📌 **Game Systems (Lua)**  
+  Design and implementation of game logic and mechanics.
+
+---
+
+## 📚 Currently Studying
+
+- Mathematical rigor and proof construction  
+- Geometric structures and spaces  
+- Foundations of abstraction in mathematics  
+
+---
+
+## 🎯 Vision
+
+I aim to become a researcher in Applied and Computational Mathematics, focusing on geometry and its applications in computational systems.
+
+My goal is to build a solid foundation that allows me to contribute with depth, precision, and originality.
+
+---
+
+## 📫 Contact
+
+- Instagram: https://www.instagram.com/niterleski/
+- Discord: niterleski
+- Email: ni.terleski@gmail.com
