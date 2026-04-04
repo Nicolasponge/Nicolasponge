@@ -29,7 +29,7 @@ I value clarity, structure, and depth — aiming to transform abstract ideas int
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 ### Programming
 <p>
