@@ -7,7 +7,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=Java" height="50" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="html5 logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
   <img width="16" />
