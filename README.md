@@ -1,79 +1,99 @@
-<h1 align="center">Nícolas</h1>
+<h1 align="center">Nícolas T.</h1>
 
 <p align="center">
   Applied and Computational Mathematics Student • System Development Technician
 </p>
 
----
-
-## 🧠 About Me
-
-I am a student of Applied and Computational Mathematics in Brazil, with a strong interest in **Geometry**, both in its theoretical foundations and computational applications.
-
-My focus is on developing deep mathematical understanding, rigorous thinking, and the ability to transform abstract concepts into structured solutions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,cpp,java,python" height="45"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## About Me
+
+I am a student of Applied and Computational Mathematics in Brazil, interested in the intersection between **mathematical theory** and **computational systems**.
+
+My main focus is **Geometry**, exploring both its rigorous foundations and its applications in discrete and computational contexts.
+
+I value clarity, structure, and depth — aiming to transform abstract ideas into well-defined models and implementations.
+
+---
+
+## Current Focus
 
 - Euclidean Geometry (rigorous approach)
 - Foundations of Mathematical Proof
-- Discrete Geometry (research project)
-- Computational thinking applied to mathematics
+- Discrete Geometry (research-oriented study)
+- Computational modeling of mathematical structures
 
 ---
 
 ## ⚙️ Technical Skills
 
-**Programming**
-- Lua
-- C++
-- Java
-- Python
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,cpp,java,python" height="40"/>
+</p>
 
-**Concepts**
-- Problem-solving
-- Systems thinking
-- Algorithmic reasoning
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,figma,sqlite" height="40"/>
+</p>
 
-**Tools**
-- Blender (3D)
-- Figma (Design)
-- SQLite (Data)
-
----
-
-## 🚀 Projects
-
-- 📌 **Discrete Geometry Research**  
-  Study and exploration of geometric structures and spatial representations.
-
-- 📌 **Process Automation Systems**  
-  Development of workflows to optimize financial and operational processes.
-
-- 📌 **Game Systems (Lua)**  
-  Design and implementation of game logic and mechanics.
+### Core Concepts
+- Algorithmic thinking  
+- Mathematical abstraction  
+- Systems design  
+- Problem-solving  
 
 ---
 
-## 📚 Currently Studying
+## Projects
 
-- Mathematical rigor and proof construction  
-- Geometric structures and spaces  
-- Foundations of abstraction in mathematics  
+- **Discrete Geometry Study**  
+  Structured study of geometric concepts, focusing on rigor, visualization, and computational representation.
 
----
+- **Automation Systems**  
+  Development of workflows and tools to optimize real-world processes.
 
-## 🎯 Vision
-
-I aim to become a researcher in Applied and Computational Mathematics, focusing on geometry and its applications in computational systems.
-
-My goal is to build a solid foundation that allows me to contribute with depth, precision, and originality.
+- **Game Systems (Lua)**  
+  Implementation of game mechanics, focusing on logic, structure, and performance.
 
 ---
 
-## 📫 Contact
+## Currently Studying
 
-- Instagram: https://www.instagram.com/niterleski/
-- Discord: niterleski
-- Email: ni.terleski@gmail.com
+- Mathematical rigor and proof techniques  
+- Geometric structures and non-Euclidean perspectives  
+- Discrete structures and spatial reasoning  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolasponge&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasponge&layout=compact"/>
+</p>
+
+---
+
+## Vision
+
+I aim to become a researcher in Applied and Computational Mathematics, with a focus on geometry and its computational applications.
+
+My goal is to build a solid and rigorous foundation, combining theory and practice to develop meaningful and precise solutions.
+
+---
+
+## Contact
+
+<p>
+  <a href="https://www.instagram.com/niterleski/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
+  <a href="mailto:ni.terleski@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
